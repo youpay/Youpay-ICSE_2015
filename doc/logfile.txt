@@ -1,0 +1,31 @@
+Class documentation
+<---- javadoc command: ---->
+C:\Program Files\Java\jdk1.7.0_09\bin\javadoc.exe
+-author
+-version
+-nodeprecated
+-package
+-noindex
+-notree
+-nohelp
+-nonavbar
+-source
+1.7
+-classpath
+C:\Program Files\BlueJ\lib\bluejcore.jar;C:\Program Files\BlueJ\lib\junit-4.8.2.jar;C:\Users\Kartik\Google Drive\Computer\Java\Project
+-d
+C:\Users\Kartik\Google Drive\Computer\Java\Project\doc
+-encoding
+windows-1252
+-charset
+windows-1252
+-docletpath
+C:\Program Files\BlueJ\lib\bjdoclet.jar
+-doclet
+bluej.doclet.doclets.formats.html.HtmlDoclet
+C:\Users\Kartik\Google Drive\Computer\Java\Project\Register.java
+<---- end of javadoc command ---->
+Loading source file C:\Users\Kartik\Google Drive\Computer\Java\Project\Register.java...
+Constructing Javadoc information...
+javadoc: error - No public or protected classes found to document.
+1 error
