@@ -14,10 +14,10 @@ class Main
         System.out.print("\f");
         System.out.println("Choose Region:[enter number and press enter]");
         System.out.println("1.United States Of America            -->$");
-        System.out.println("2.England                             -->Â£");
-        System.out.println("3.Rest Of Europe(Under European Union)-->â‚¬");
+        System.out.println("2.England                             -->£");
+        System.out.println("3.Rest Of Europe(Under European Union)-->Euros");
         System.out.println("4.India                               -->Rs.");
-        System.out.println("5.China                               -->Â¥");
+        System.out.println("5.China                               -->¥");
         System.out.println("6.Other nation");
         int c = Integer.parseInt(br.readLine());   
         System.out.print("\f");
