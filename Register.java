@@ -18,7 +18,7 @@ class Register
             System.out.println("1.Start Balance will be $800");
             System.out.println("2.You cannot change your password(till YouPay updates to 1.1)");
             System.out.println("To Start Registration, Enter detals below and press enter");
-            do
+            do                                                                   //to check for existing usernames
             {
                 System.out.println("Username:");
                 user = br.readLine();
